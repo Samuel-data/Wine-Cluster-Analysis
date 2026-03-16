@@ -1,0 +1,325 @@
+Campaign,Varietal,Minimum Qty (kg),Discount (%),Origin,Customer Last Name,Offer Bought
+January,Pinot Noir,72,17,France,Smith,2
+September,Pinot Noir,6,34,Italy,Smith,24
+July,Pinot Noir,12,47,Germany,Johnson,17
+September,Pinot Noir,6,34,Italy,Johnson,24
+October,Pinot Noir,144,83,Australia,Johnson,26
+July,Espumante,6,50,Oregon,Williams,18
+August,Champagne,72,63,France,Williams,22
+December,Champagne,72,89,France,Williams,31
+March,Prosecco,6,40,Australia,Brown,7
+November,Pinot Grigio,6,87,France,Brown,29
+December,Malbec,6,54,France,Brown,30
+March,Espumante,6,45,South Africa,Jones,8
+March,Prosecco,144,86,Chile,Miller,6
+April,Prosecco,72,52,California,Miller,10
+June,Merlot,72,64,Chile,Miller,14
+June,Cabernet Sauvignon,144,19,Italy,Miller,15
+August,Champagne,72,63,France,Miller,22
+September,Chardonnay,144,39,South Africa,Miller,23
+December,Champagne,72,89,France,Miller,31
+May,Prosecco,72,83,Australia,Davis,12
+August,Champagne,72,63,France,Davis,22
+October,Cabernet Sauvignon,72,59,Oregon,Davis,25
+June,Merlot,72,64,Chile,Garcia,14
+June,Cabernet Sauvignon,144,19,Italy,Garcia,15
+January,Pinot Noir,72,17,France,Rodriguez,2
+October,Pinot Noir,144,83,Australia,Rodriguez,26
+March,Espumante,6,45,South Africa,Wilson,8
+December,Malbec,6,54,France,Wilson,30
+May,Prosecco,72,83,Australia,Martinez,12
+October,Cabernet Sauvignon,72,59,Oregon,Martinez,25
+November,Cabernet Sauvignon,12,56,France,Martinez,28
+September,Pinot Noir,6,34,Italy,Anderson,24
+October,Pinot Noir,144,83,Australia,Anderson,26
+March,Prosecco,6,40,Australia,Taylor,7
+July,Espumante,6,50,Oregon,Taylor,18
+November,Pinot Grigio,6,87,France,Taylor,29
+December,Malbec,6,54,France,Taylor,30
+January,Malbec,72,56,France,Thomas,1
+February,Champagne,72,48,France,Thomas,4
+April,Chardonnay,144,57,Chile,Thomas,9
+May,Champagne,72,85,France,Thomas,11
+June,Merlot,72,64,Chile,Thomas,14
+October,Pinot Noir,144,83,Australia,Thomas,26
+November,Cabernet Sauvignon,12,56,France,Hernandez,28
+November,Pinot Grigio,6,87,France,Hernandez,29
+July,Pinot Noir,12,47,Germany,Moore,17
+September,Pinot Noir,6,34,Italy,Moore,24
+January,Pinot Noir,72,17,France,Martin,2
+May,Champagne,72,85,France,Martin,11
+November,Cabernet Sauvignon,12,56,France,Martin,28
+January,Malbec,72,56,France,Jackson,1
+January,Pinot Noir,72,17,France,Jackson,2
+May,Champagne,72,85,France,Jackson,11
+June,Cabernet Sauvignon,144,19,Italy,Jackson,15
+August,Champagne,72,63,France,Jackson,22
+April,Chardonnay,144,57,Chile,Thompson,9
+June,Merlot,72,88,California,Thompson,16
+October,Cabernet Sauvignon,72,59,Oregon,Thompson,25
+December,Malbec,6,54,France,Thompson,30
+June,Merlot,72,64,Chile,White,14
+August,Champagne,72,63,France,White,22
+October,Cabernet Sauvignon,72,59,Oregon,White,25
+December,Malbec,6,54,France,White,30
+April,Chardonnay,144,57,Chile,Lopez,9
+May,Champagne,72,85,France,Lopez,11
+June,Cabernet Sauvignon,144,19,Italy,Lopez,15
+June,Merlot,72,88,California,Lopez,16
+October,Champagne,72,88,New Zealand,Lopez,27
+February,Espumante,144,32,Oregon,Lee,3
+February,Champagne,72,48,France,Lee,4
+March,Prosecco,144,86,Chile,Lee,6
+August,Champagne,72,63,France,Lee,22
+October,Champagne,72,88,New Zealand,Lee,27
+April,Chardonnay,144,57,Chile,Gonzalez,9
+December,Champagne,72,89,France,Gonzalez,31
+February,Champagne,72,48,France,Harris,4
+March,Prosecco,144,86,Chile,Harris,6
+March,Prosecco,6,40,Australia,Harris,7
+July,Champagne,12,66,Germany,Harris,19
+August,Champagne,72,63,France,Harris,22
+October,Champagne,72,88,New Zealand,Harris,27
+February,Champagne,72,48,France,Clark,4
+May,Champagne,72,85,France,Clark,11
+November,Cabernet Sauvignon,12,56,France,Clark,28
+December,Champagne,72,89,France,Clark,31
+March,Prosecco,6,40,Australia,Lewis,7
+March,Espumante,6,45,South Africa,Lewis,8
+December,Malbec,6,54,France,Lewis,30
+March,Prosecco,6,40,Australia,Robinson,7
+November,Pinot Grigio,6,87,France,Robinson,29
+July,Espumante,6,50,Oregon,Walker,18
+November,Pinot Grigio,6,87,France,Walker,29
+July,Espumante,6,50,Oregon,Perez,18
+December,Malbec,6,54,France,Perez,30
+May,Champagne,72,85,France,Hall,11
+August,Champagne,72,63,France,Hall,22
+March,Prosecco,144,86,Chile,Young,6
+April,Chardonnay,144,57,Chile,Young,9
+June,Cabernet Sauvignon,144,19,Italy,Young,15
+August,Champagne,72,63,France,Young,22
+December,Champagne,72,89,France,Young,31
+December,Cabernet Sauvignon,72,45,Germany,Young,32
+April,Chardonnay,144,57,Chile,Allen,9
+October,Champagne,72,88,New Zealand,Allen,27
+February,Champagne,72,48,France,Sanchez,4
+February,Cabernet Sauvignon,144,44,New Zealand,Sanchez,5
+June,Merlot,72,64,Chile,Sanchez,14
+June,Cabernet Sauvignon,144,19,Italy,Sanchez,15
+August,Cabernet Sauvignon,72,82,Italy,Sanchez,20
+August,Champagne,72,63,France,Sanchez,22
+October,Pinot Noir,144,83,Australia,Sanchez,26
+February,Champagne,72,48,France,Wright,4
+March,Prosecco,144,86,Chile,Wright,6
+August,Champagne,12,50,California,Wright,21
+October,Champagne,72,88,New Zealand,Wright,27
+March,Prosecco,6,40,Australia,King,7
+May,Merlot,6,43,Chile,King,13
+July,Espumante,6,50,Oregon,King,18
+November,Pinot Grigio,6,87,France,King,29
+March,Prosecco,144,86,Chile,Scott,6
+June,Merlot,72,64,Chile,Scott,14
+September,Chardonnay,144,39,South Africa,Scott,23
+March,Prosecco,6,40,Australia,Green,7
+March,Prosecco,6,40,Australia,Baker,7
+April,Prosecco,72,52,California,Baker,10
+July,Champagne,12,66,Germany,Baker,19
+December,Champagne,72,89,France,Baker,31
+July,Espumante,6,50,Oregon,Adams,18
+November,Pinot Grigio,6,87,France,Adams,29
+December,Malbec,6,54,France,Adams,30
+February,Espumante,144,32,Oregon,Nelson,3
+February,Champagne,72,48,France,Nelson,4
+March,Espumante,6,45,South Africa,Nelson,8
+December,Champagne,72,89,France,Nelson,31
+March,Espumante,6,45,South Africa,Hill,8
+May,Merlot,6,43,Chile,Hill,13
+July,Espumante,6,50,Oregon,Hill,18
+December,Malbec,6,54,France,Hill,30
+April,Chardonnay,144,57,Chile,Ramirez,9
+January,Pinot Noir,72,17,France,Campbell,2
+September,Pinot Noir,6,34,Italy,Campbell,24
+October,Pinot Noir,144,83,Australia,Campbell,26
+January,Malbec,72,56,France,Mitchell,1
+January,Pinot Noir,72,17,France,Mitchell,2
+December,Champagne,72,89,France,Roberts,31
+March,Prosecco,6,40,Australia,Carter,7
+May,Merlot,6,43,Chile,Carter,13
+November,Pinot Grigio,6,87,France,Carter,29
+December,Malbec,6,54,France,Carter,30
+July,Pinot Noir,12,47,Germany,Phillips,17
+September,Pinot Noir,6,34,Italy,Phillips,24
+August,Champagne,72,63,France,Evans,22
+October,Champagne,72,88,New Zealand,Evans,27
+February,Champagne,72,48,France,Turner,4
+March,Prosecco,144,86,Chile,Turner,6
+October,Champagne,72,88,New Zealand,Turner,27
+December,Champagne,72,89,France,Turner,31
+March,Espumante,6,45,South Africa,Torres,8
+May,Champagne,72,85,France,Parker,11
+June,Merlot,72,88,California,Parker,16
+August,Cabernet Sauvignon,72,82,Italy,Parker,20
+November,Pinot Grigio,6,87,France,Parker,29
+December,Champagne,72,89,France,Parker,31
+May,Champagne,72,85,France,Collins,11
+December,Malbec,6,54,France,Collins,30
+March,Espumante,6,45,South Africa,Edwards,8
+October,Champagne,72,88,New Zealand,Edwards,27
+March,Espumante,6,45,South Africa,Stewart,8
+November,Pinot Grigio,6,87,France,Stewart,29
+December,Malbec,6,54,France,Stewart,30
+July,Pinot Noir,12,47,Germany,Flores,17
+September,Pinot Noir,6,34,Italy,Flores,24
+July,Pinot Noir,12,47,Germany,Morris,17
+September,Pinot Noir,6,34,Italy,Morris,24
+October,Pinot Noir,144,83,Australia,Morris,26
+July,Champagne,12,66,Germany,Nguyen,19
+December,Champagne,72,89,France,Nguyen,31
+March,Prosecco,6,40,Australia,Murphy,7
+May,Prosecco,72,83,Australia,Murphy,12
+March,Prosecco,6,40,Australia,Rivera,7
+July,Espumante,6,50,Oregon,Rivera,18
+September,Pinot Noir,6,34,Italy,Cook,24
+October,Pinot Noir,144,83,Australia,Cook,26
+February,Espumante,144,32,Oregon,Rogers,3
+March,Prosecco,6,40,Australia,Rogers,7
+March,Espumante,6,45,South Africa,Rogers,8
+July,Champagne,12,66,Germany,Rogers,19
+August,Champagne,12,50,California,Rogers,21
+August,Champagne,72,63,France,Rogers,22
+March,Espumante,6,45,South Africa,Morgan,8
+November,Pinot Grigio,6,87,France,Morgan,29
+January,Malbec,72,56,France,Peterson,1
+January,Pinot Noir,72,17,France,Peterson,2
+April,Prosecco,72,52,California,Peterson,10
+September,Chardonnay,144,39,South Africa,Peterson,23
+October,Pinot Noir,144,83,Australia,Peterson,26
+October,Champagne,72,88,New Zealand,Peterson,27
+February,Champagne,72,48,France,Cooper,4
+June,Merlot,72,88,California,Cooper,16
+August,Cabernet Sauvignon,72,82,Italy,Cooper,20
+December,Cabernet Sauvignon,72,45,Germany,Cooper,32
+February,Cabernet Sauvignon,144,44,New Zealand,Reed,5
+June,Merlot,72,64,Chile,Reed,14
+March,Prosecco,6,40,Australia,Bailey,7
+December,Malbec,6,54,France,Bailey,30
+January,Pinot Noir,72,17,France,Bell,2
+July,Pinot Noir,12,47,Germany,Bell,17
+September,Pinot Noir,6,34,Italy,Bell,24
+October,Pinot Noir,144,83,Australia,Bell,26
+May,Champagne,72,85,France,Gomez,11
+August,Cabernet Sauvignon,72,82,Italy,Gomez,20
+October,Cabernet Sauvignon,72,59,Oregon,Gomez,25
+December,Cabernet Sauvignon,72,45,Germany,Gomez,32
+March,Prosecco,144,86,Chile,Kelly,6
+August,Cabernet Sauvignon,72,82,Italy,Kelly,20
+December,Champagne,72,89,France,Kelly,31
+December,Cabernet Sauvignon,72,45,Germany,Kelly,32
+May,Champagne,72,85,France,Howard,11
+May,Prosecco,72,83,Australia,Howard,12
+August,Champagne,72,63,France,Howard,22
+February,Champagne,72,48,France,Ward,4
+January,Pinot Noir,72,17,France,Cox,2
+July,Pinot Noir,12,47,Germany,Cox,17
+September,Pinot Noir,6,34,Italy,Cox,24
+October,Pinot Noir,144,83,Australia,Cox,26
+March,Prosecco,6,40,Australia,Diaz,7
+March,Espumante,6,45,South Africa,Diaz,8
+November,Pinot Grigio,6,87,France,Diaz,29
+December,Malbec,6,54,France,Diaz,30
+February,Espumante,144,32,Oregon,Richardson,3
+March,Prosecco,144,86,Chile,Richardson,6
+August,Champagne,72,63,France,Richardson,22
+January,Malbec,72,56,France,Wood,1
+April,Prosecco,72,52,California,Wood,10
+June,Merlot,72,64,Chile,Wood,14
+December,Champagne,72,89,France,Wood,31
+March,Prosecco,6,40,Australia,Watson,7
+November,Pinot Grigio,6,87,France,Watson,29
+February,Espumante,144,32,Oregon,Brooks,3
+March,Espumante,6,45,South Africa,Brooks,8
+May,Champagne,72,85,France,Brooks,11
+August,Champagne,72,63,France,Brooks,22
+March,Espumante,6,45,South Africa,Bennett,8
+November,Pinot Grigio,6,87,France,Bennett,29
+May,Prosecco,72,83,Australia,Gray,12
+June,Merlot,72,88,California,Gray,16
+October,Pinot Noir,144,83,Australia,Gray,26
+March,Prosecco,6,40,Australia,James,7
+March,Espumante,6,45,South Africa,James,8
+May,Merlot,6,43,Chile,James,13
+July,Espumante,6,50,Oregon,James,18
+December,Malbec,6,54,France,James,30
+April,Chardonnay,144,57,Chile,Reyes,9
+September,Chardonnay,144,39,South Africa,Reyes,23
+November,Pinot Grigio,6,87,France,Cruz,29
+December,Malbec,6,54,France,Cruz,30
+March,Prosecco,6,40,Australia,Hughes,7
+March,Espumante,6,45,South Africa,Hughes,8
+May,Merlot,6,43,Chile,Hughes,13
+November,Pinot Grigio,6,87,France,Hughes,29
+December,Malbec,6,54,France,Hughes,30
+January,Malbec,72,56,France,Price,1
+August,Champagne,72,63,France,Price,22
+December,Malbec,6,54,France,Price,30
+December,Champagne,72,89,France,Price,31
+July,Espumante,6,50,Oregon,Myers,18
+December,Malbec,6,54,France,Myers,30
+February,Espumante,144,32,Oregon,Long,3
+March,Prosecco,6,40,Australia,Long,7
+April,Prosecco,72,52,California,Long,10
+January,Malbec,72,56,France,Foster,1
+April,Chardonnay,144,57,Chile,Foster,9
+June,Merlot,72,64,Chile,Foster,14
+August,Champagne,72,63,France,Foster,22
+September,Chardonnay,144,39,South Africa,Foster,23
+January,Malbec,72,56,France,Sanders,1
+February,Champagne,72,48,France,Sanders,4
+February,Cabernet Sauvignon,144,44,New Zealand,Sanders,5
+March,Prosecco,144,86,Chile,Sanders,6
+April,Chardonnay,144,57,Chile,Sanders,9
+May,Champagne,72,85,France,Sanders,11
+August,Cabernet Sauvignon,72,82,Italy,Sanders,20
+October,Cabernet Sauvignon,72,59,Oregon,Sanders,25
+October,Pinot Noir,144,83,Australia,Sanders,26
+July,Espumante,6,50,Oregon,Ross,18
+August,Champagne,12,50,California,Ross,21
+March,Prosecco,144,86,Chile,Morales,6
+March,Prosecco,6,40,Australia,Morales,7
+March,Espumante,6,45,South Africa,Morales,8
+July,Champagne,12,66,Germany,Morales,19
+August,Champagne,72,63,France,Morales,22
+December,Champagne,72,89,France,Morales,31
+February,Cabernet Sauvignon,144,44,New Zealand,Powell,5
+March,Espumante,6,45,South Africa,Sullivan,8
+May,Merlot,6,43,Chile,Sullivan,13
+July,Espumante,6,50,Oregon,Sullivan,18
+October,Pinot Noir,144,83,Australia,Russell,26
+March,Espumante,6,45,South Africa,Ortiz,8
+September,Pinot Noir,6,34,Italy,Jenkins,24
+October,Pinot Noir,144,83,Australia,Jenkins,26
+March,Prosecco,144,86,Chile,Gutierrez,6
+March,Espumante,6,45,South Africa,Gutierrez,8
+April,Prosecco,72,52,California,Gutierrez,10
+July,Espumante,6,50,Oregon,Gutierrez,18
+March,Espumante,6,45,South Africa,Perry,8
+July,Espumante,6,50,Oregon,Perry,18
+November,Pinot Grigio,6,87,France,Perry,29
+December,Malbec,6,54,France,Perry,30
+January,Malbec,72,56,France,Butler,1
+February,Champagne,72,48,France,Butler,4
+August,Champagne,72,63,France,Butler,22
+November,Cabernet Sauvignon,12,56,France,Butler,28
+December,Malbec,6,54,France,Butler,30
+April,Prosecco,72,52,California,Barnes,10
+August,Champagne,12,50,California,Barnes,21
+August,Champagne,72,63,France,Barnes,22
+December,Champagne,72,89,France,Barnes,31
+January,Malbec,72,56,France,Fisher,1
+January,Pinot Noir,72,17,France,Fisher,2
+May,Champagne,72,85,France,Fisher,11
+August,Champagne,72,63,France,Fisher,22
+November,Cabernet Sauvignon,12,56,France,Fisher,28
+December,Malbec,6,54,France,Fisher,30
+December,Champagne,72,89,France,Fisher,31
