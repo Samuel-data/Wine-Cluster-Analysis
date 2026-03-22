@@ -5,7 +5,6 @@ This project identifies distinct customer segments within a wine retail dataset 
 
 ### **The Data**
 The analysis is based on `WineData.csv`, which tracks customer responses to various wine offers.
-* **Note:** If the dataset is large or private, ensure it is listed in your `.gitignore`.
 
 ### **Key Technical Features**
 * **Exploratory Data Analysis (EDA):** Statistical summary of purchasing behavior (volume vs. discounts).
